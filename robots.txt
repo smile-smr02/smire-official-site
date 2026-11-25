@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smile-smr02.github.io/smire-official-site/sitemap.xml
